@@ -25,6 +25,3 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Credits
-
-Built on the open-source 3D portfolio template by [Mohit Virli](https://github.com/mohitvirli/mohitvirli.github.io). 3D models are used under CC-BY-4.0 with attribution preserved in the component source files.
